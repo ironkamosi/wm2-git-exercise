@@ -1,0 +1,6 @@
+Good afternoon!
+
+My name is: <add here>
+
+If you add your name, commit your changes, and try to merge with the master
+branch, it will cause a conflict. You should resolve it in VSCode.
